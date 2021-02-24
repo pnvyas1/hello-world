@@ -1,4 +1,3 @@
 # hello-world
-Just another repository
-CSE 360 Hello World git demo
+CSE 360 Hello World git demo: 
 Priya Vyas
